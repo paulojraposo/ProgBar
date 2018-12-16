@@ -15,7 +15,7 @@ Python 3.x.
 ## Usage
 Just use carriage returns and flushes (i.e., `end="\r"` and `flush=True`) in your `print()` statements to keep writing on the same line:
 
-```
+```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
