@@ -1,6 +1,6 @@
 # A Simple Progress Bar
 
-Little Python module for a nice Unicode progress bar, useful for console applications when you want to give your user a running percentage of some job done.
+Little Python module for a nice textual progress bar, useful for console applications when you want to give your user a running percentage of some job done.
 
 ![A screenshot][screenshot]
 
